@@ -275,6 +275,9 @@ FakesAssemblies/
 .ntvs_analysis.dat
 node_modules/
 
+# 到时候webpack打包的输出目录
+/dist/
+
 # Visual Studio 6 build log
 *.plg
 
